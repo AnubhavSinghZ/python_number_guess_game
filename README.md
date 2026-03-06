@@ -1,6 +1,6 @@
 #This is my Python Practice Work
 
-# Contiton Mention
+# Conditon Mention
 if
 else
 elseif
