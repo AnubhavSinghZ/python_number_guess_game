@@ -43,7 +43,7 @@ if p2_pos+roll1<=100:
 elif p2_pos==27: p2_pos=5; print("Snake! Down to 5")
 elif p2_pos==54: p2_pos=31; print("Snake! Down to 31")
 
-print(f"Player 2 Position:{p1_pos}")
+print(f"Player 2 Position:{p2_pos}")
 if p2_pos==100:
  print("Player 2 WIN")
  game_over= True
@@ -51,4 +51,5 @@ if p2_pos==100:
 
 
 start_game()
+
 
