@@ -9,3 +9,4 @@ elif
 # Simple and Easy
 
 Easy and simple way 
+I have understand the concept of statements in python.
