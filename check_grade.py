@@ -2,7 +2,7 @@
 
 print("__GRADE EVALUATION SYSTEM__")
 marks=float(input("Enter your marks(0-100):"))    #taking inpput
-if marks >=90:
+if marks>=90:
  grade="A+"
  comment="Exclelent Performance!"
 elif marks>=80:
